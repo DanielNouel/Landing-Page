@@ -1,2 +1,2 @@
 # Landing-Page
-The first project of TheOdinProject, "Landing Page"
+The second project of TheOdinProject, "Landing Page"
